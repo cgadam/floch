@@ -2,7 +2,6 @@
   background-color: #66b0f0;
   padding: 25px 0;
   font-size: 20px;
-  font-family: 'Imprenta';
 }
 
 :local(.message) {
@@ -37,6 +36,7 @@
 
 :local(.accountInfoContainer) {
   margin-top: 15px;
+  font-family: 'Imprenta';
 }
 
 :local(.accountInfo) {
@@ -58,6 +58,7 @@
   padding: 10px;
   border: white solid 1px;
   text-transform: uppercase;
+  font-family: 'Imprenta';
 }
 
 :local(.listasContainer) {
