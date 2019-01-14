@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/floch/static/media/lamerced.8bcb6d44.png"
   },
   {
-    "revision": "0328a1e9eb77199d4c0d",
-    "url": "/floch/static/css/main.39fc6f61.chunk.css"
+    "revision": "12e19e6fe4ec1f0f567d",
+    "url": "/floch/static/css/main.c8798954.chunk.css"
   },
   {
     "revision": "b38d3faf16ee4e25602bbf76336b90c9",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/floch/static/js/runtime~main.4693f1e8.js"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/floch/static/media/slick.ced611da.eot"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/floch/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/floch/static/media/slick.ced611da.eot"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/floch/static/media/marquesina.3cb71f23.png"
   },
   {
-    "revision": "0328a1e9eb77199d4c0d",
-    "url": "/floch/static/js/main.0328a1e9.chunk.js"
+    "revision": "12e19e6fe4ec1f0f567d",
+    "url": "/floch/static/js/main.12e19e6f.chunk.js"
   },
   {
     "revision": "f71e2d8b1949d4d70ff6a3cd29d3e3aa",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/floch/static/css/1.aa571f49.chunk.css"
   },
   {
-    "revision": "55d9231efe67360302091bcdd39c77f0",
+    "revision": "669d47a31baf8420fb5da3a894f7aefe",
     "url": "/floch/index.html"
   }
 ];
