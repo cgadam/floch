@@ -1,7 +1,7 @@
 {
-  "main.css": "/floch/static/css/main.8adaf2ae.chunk.css",
-  "main.js": "/floch/static/js/main.f9dc2e47.chunk.js",
-  "main.js.map": "/floch/static/js/main.f9dc2e47.chunk.js.map",
+  "main.css": "/floch/static/css/main.f5595b33.chunk.css",
+  "main.js": "/floch/static/js/main.8ed19168.chunk.js",
+  "main.js.map": "/floch/static/js/main.8ed19168.chunk.js.map",
   "static/css/1.aa571f49.chunk.css": "/floch/static/css/1.aa571f49.chunk.css",
   "static/js/1.2e12887d.chunk.js": "/floch/static/js/1.2e12887d.chunk.js",
   "static/js/1.2e12887d.chunk.js.map": "/floch/static/js/1.2e12887d.chunk.js.map",
@@ -17,9 +17,9 @@
   "static/media/cashInHand.png": "/floch/static/media/cashInHand.e93e153b.png",
   "static/media/11b_treinta_chris.jpg": "/floch/static/media/11b_treinta_chris.cfacbe9e.jpg",
   "static/media/14_cuba_02.jpg": "/floch/static/media/14_cuba_02.88a9003c.jpg",
-  "static/css/main.8adaf2ae.chunk.css.map": "/floch/static/css/main.8adaf2ae.chunk.css.map",
+  "static/css/main.f5595b33.chunk.css.map": "/floch/static/css/main.f5595b33.chunk.css.map",
   "static/css/1.aa571f49.chunk.css.map": "/floch/static/css/1.aa571f49.chunk.css.map",
   "index.html": "/floch/index.html",
-  "precache-manifest.7aaa471c34da815f65a33cf10fa5eb14.js": "/floch/precache-manifest.7aaa471c34da815f65a33cf10fa5eb14.js",
+  "precache-manifest.db6ed3c8178b0ffc9e949685a90f939e.js": "/floch/precache-manifest.db6ed3c8178b0ffc9e949685a90f939e.js",
   "service-worker.js": "/floch/service-worker.js"
 }
