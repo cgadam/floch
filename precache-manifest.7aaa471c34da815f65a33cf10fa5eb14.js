@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/floch/static/media/lamerced.8bcb6d44.png"
   },
   {
-    "revision": "12e19e6fe4ec1f0f567d",
-    "url": "/floch/static/css/main.c8798954.chunk.css"
+    "revision": "f9dc2e47e32b04455a41",
+    "url": "/floch/static/css/main.8adaf2ae.chunk.css"
   },
   {
     "revision": "b38d3faf16ee4e25602bbf76336b90c9",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/floch/static/media/marquesina.3cb71f23.png"
   },
   {
-    "revision": "12e19e6fe4ec1f0f567d",
-    "url": "/floch/static/js/main.12e19e6f.chunk.js"
+    "revision": "f9dc2e47e32b04455a41",
+    "url": "/floch/static/js/main.f9dc2e47.chunk.js"
   },
   {
     "revision": "f71e2d8b1949d4d70ff6a3cd29d3e3aa",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/floch/static/css/1.aa571f49.chunk.css"
   },
   {
-    "revision": "669d47a31baf8420fb5da3a894f7aefe",
+    "revision": "3aa22af6e094c046b81fc0383d032a8e",
     "url": "/floch/index.html"
   }
 ];
