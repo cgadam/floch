@@ -8,7 +8,7 @@
   "runtime~main.js": "/floch-app/static/js/runtime~main.45e484c5.js",
   "runtime~main.js.map": "/floch-app/static/js/runtime~main.45e484c5.js.map",
   "static/media/index.css": "/floch-app/static/media/Typey.5c174d73.otf",
-  "static/media/Header.css": "/floch-app/static/media/slick.f97e3bbf.svg",
+  "static/media/Header.css": "/floch-app/static/media/slick.b7c9e1e4.woff",
   "static/media/marquesina.png": "/floch-app/static/media/marquesina.3cb71f23.png",
   "static/media/lamerced.png": "/floch-app/static/media/lamerced.8bcb6d44.png",
   "static/media/rings.png": "/floch-app/static/media/rings.f71e2d8b.png",
@@ -20,6 +20,6 @@
   "static/css/main.3e06cb39.chunk.css.map": "/floch-app/static/css/main.3e06cb39.chunk.css.map",
   "static/css/1.7a25411d.chunk.css.map": "/floch-app/static/css/1.7a25411d.chunk.css.map",
   "index.html": "/floch-app/index.html",
-  "precache-manifest.6d49f912035891d6af260b6a93066667.js": "/floch-app/precache-manifest.6d49f912035891d6af260b6a93066667.js",
+  "precache-manifest.7c1927cc36174b0f6216c2703c86cd63.js": "/floch-app/precache-manifest.7c1927cc36174b0f6216c2703c86cd63.js",
   "service-worker.js": "/floch-app/service-worker.js"
 }
