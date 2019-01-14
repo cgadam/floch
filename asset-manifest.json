@@ -1,14 +1,14 @@
 {
   "main.css": "/floch/static/css/main.d195f986.chunk.css",
-  "main.js": "/floch/static/js/main.228b9c7f.chunk.js",
-  "main.js.map": "/floch/static/js/main.228b9c7f.chunk.js.map",
+  "main.js": "/floch/static/js/main.5e3d37aa.chunk.js",
+  "main.js.map": "/floch/static/js/main.5e3d37aa.chunk.js.map",
   "static/css/1.aa571f49.chunk.css": "/floch/static/css/1.aa571f49.chunk.css",
-  "static/js/1.2e12887d.chunk.js": "/floch/static/js/1.2e12887d.chunk.js",
-  "static/js/1.2e12887d.chunk.js.map": "/floch/static/js/1.2e12887d.chunk.js.map",
+  "static/js/1.da7a3e93.chunk.js": "/floch/static/js/1.da7a3e93.chunk.js",
+  "static/js/1.da7a3e93.chunk.js.map": "/floch/static/js/1.da7a3e93.chunk.js.map",
   "runtime~main.js": "/floch/static/js/runtime~main.4693f1e8.js",
   "runtime~main.js.map": "/floch/static/js/runtime~main.4693f1e8.js.map",
   "static/media/index.css": "/floch/static/media/Typey.5c174d73.otf",
-  "static/media/Header.css": "/floch/static/media/slick.f97e3bbf.svg",
+  "static/media/Header.css": "/floch/static/media/slick.b7c9e1e4.woff",
   "static/media/marquesina.png": "/floch/static/media/marquesina.3cb71f23.png",
   "static/media/lamerced.png": "/floch/static/media/lamerced.8bcb6d44.png",
   "static/media/rings.png": "/floch/static/media/rings.f71e2d8b.png",
@@ -20,6 +20,6 @@
   "static/css/main.d195f986.chunk.css.map": "/floch/static/css/main.d195f986.chunk.css.map",
   "static/css/1.aa571f49.chunk.css.map": "/floch/static/css/1.aa571f49.chunk.css.map",
   "index.html": "/floch/index.html",
-  "precache-manifest.ee0fb040ad98b9df8905a64b34780daf.js": "/floch/precache-manifest.ee0fb040ad98b9df8905a64b34780daf.js",
+  "precache-manifest.4bc7d65b0a4feb3d1363ac9b85806a92.js": "/floch/precache-manifest.4bc7d65b0a4feb3d1363ac9b85806a92.js",
   "service-worker.js": "/floch/service-worker.js"
 }

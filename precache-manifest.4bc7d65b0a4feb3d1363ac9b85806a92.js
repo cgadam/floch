@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/floch/static/media/lamerced.8bcb6d44.png"
   },
   {
-    "revision": "228b9c7f50bc3b49b7f3",
+    "revision": "5e3d37aaac66e79fba33",
     "url": "/floch/static/css/main.d195f986.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/floch/static/media/handycheera.b38d3faf.otf"
   },
   {
-    "revision": "2e12887d9b0fde439b6e",
-    "url": "/floch/static/js/1.2e12887d.chunk.js"
+    "revision": "da7a3e93055f99774061",
+    "url": "/floch/static/js/1.da7a3e93.chunk.js"
   },
   {
     "revision": "4693f1e8b4b2c9c93805",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/floch/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/floch/static/media/slick.f97e3bbf.svg"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/floch/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/floch/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/floch/static/media/marquesina.3cb71f23.png"
   },
   {
-    "revision": "228b9c7f50bc3b49b7f3",
-    "url": "/floch/static/js/main.228b9c7f.chunk.js"
+    "revision": "5e3d37aaac66e79fba33",
+    "url": "/floch/static/js/main.5e3d37aa.chunk.js"
   },
   {
     "revision": "f71e2d8b1949d4d70ff6a3cd29d3e3aa",
@@ -72,11 +72,11 @@ self.__precacheManifest = [
     "url": "/floch/static/media/Typey.5c174d73.otf"
   },
   {
-    "revision": "2e12887d9b0fde439b6e",
+    "revision": "da7a3e93055f99774061",
     "url": "/floch/static/css/1.aa571f49.chunk.css"
   },
   {
-    "revision": "61f904b20d7d3c0a981b38893da6a72d",
+    "revision": "0882c4e6b63349439b6f9c4e6538dc43",
     "url": "/floch/index.html"
   }
 ];
