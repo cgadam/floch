@@ -1,0 +1,54 @@
+/* #A3586D */
+:local(.module) {
+  /*
+    #7A2D59
+  */
+  background-color: #351C4D;
+  text-align: center;
+}
+
+:local(.side-by-side) {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow: auto;
+  justify-content: center;
+  padding: 25px 0;
+}
+
+:local(.side) {
+  min-width: 200px;
+  max-width: 384px;
+  text-align: center;
+}
+
+:local(.right) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+:local(.side img) {
+  width: 75%;
+}
+
+:local(.center-module) {
+  display: inline-block;
+}
+
+:local(pre) {
+  font-size: 22px;
+}
+
+:local(cite) {
+  font-size: 18px;
+}
+
+:local(.salon) {
+  font-size: 24px;
+}
+
+:local(.salonText) {
+  margin-top: 22px;
+}

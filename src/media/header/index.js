@@ -1,9 +1,10 @@
-import dog from './dog.jpg';
-import cat from './cat.jpeg';
-import lion from './lion.jpg';
+import marquesina from './marquesina.png'
 
-export default [
-    dog,
-    lion,
-    cat
-]
+const carouselContext = require.context('./tarjeta', true);
+
+export default {
+  carousel: carouselContext.keys().map((key) => {
+    return carouselContext(key);
+  }),
+  marquesina,
+}
