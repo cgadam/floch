@@ -16,7 +16,10 @@ const Church = (props)=> {
   const rightPanelStyles = [styles.side, styles.right, styles.church];
 
   return ( 
-    <div className={styles.module}>
+    <div style={{
+      backgroundColor: '#7A2D59',
+      textAlign: 'center',
+      }}>
       <div className={styles['center-module']}>
         <div className={styles['side-by-side']}>
           <div className={styles.side}>
