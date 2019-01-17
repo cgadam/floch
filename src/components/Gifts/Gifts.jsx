@@ -44,6 +44,9 @@ const Gifts = (props) => {
                 <div className={styles.accountInfo}>
                   <span>CBU:</span><span className={styles.accountData}>{account.cbu}</span>
                 </div>
+                <div className={styles.note}>
+                 { account.note }
+                </div>
               </div>
             </div>
           </div>

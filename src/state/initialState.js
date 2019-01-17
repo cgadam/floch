@@ -14,12 +14,12 @@ export default {
   header: {
     images: headerImages.default.carousel,
     marquesina: headerImages.default.marquesina,
-    text: 'Nos casamos!',
+    text: '¡Nos casamos!',
   },
   church: {
     name: 'La Merced',
     location: 'https://www.google.com/maps/dir//Parroquia+Nuestra+Señora+de+la+Merced,+Alta+Gracia,+Provincia+de+Córdoba/',
-    time: moment('23/02/2019 18:30:00', 'DD/MM/YYYY hh:mm:ss'),
+    time: moment('23/02/2019 18:20:00', 'DD/MM/YYYY hh:mm:ss'),
     photo: church.default.church,
     rings: church.default.rings,
     poem: {
@@ -34,16 +34,17 @@ porque estás en todas partes.`,
   salon: {
     name: 'Estancia La Cautiva',
     location: 'https://www.google.com/maps/dir//Estancia+La+Cautiva,+Camino+a+La+Paisanita,+Estancia+La+Cautiva,+3.6+km+camino+a+La+Paisanita,+Córdoba/',
-    time: moment('23/02/2019 19:30:00', 'DD/MM/YYYY hh:mm:ss'),
+    time: moment('23/02/2019 19:45:00', 'DD/MM/YYYY hh:mm:ss'),
     photo: salon.default.cautiva,
   },
   gifts: {
-    message: 'Nos podes ayudar de varias formas!',
+    message: '¡Nos podés ayudar de varias formas!',
     account: {
-      tipo: 'Caja de Ahorro en Pesos',
-      banco: 'BBVA Frances',
+      tipo: 'Caja de Ahorro en Pesos*',
+      banco: 'BBVA Francés',
       alias: 'CHRISTIAN.FLOR.BODA',
       cbu: '0170290540000033757597',
+      note: '(*) Si hacés una tranferencia indicá alguna referencia así sabemos que fuiste vos!'
     },
     lists: [
       {
@@ -53,10 +54,10 @@ porque estás en todas partes.`,
     ]
   },
   confirmation: {
-    message: 'Por favor confirmar asistemcia antes del:',
+    message: 'Por favor confirmar asistencia antes del:',
     date: moment('01/02/2019 00:00:00', 'DD/MM/YYYY hh:mm:ss'),
     button: {
-      text: 'Confirmar Aqui',
+      text: 'Confirmar Aquí',
       link: 'https://goo.gl/forms/zdDlAxDgr7Rekepi1',
     }
   }

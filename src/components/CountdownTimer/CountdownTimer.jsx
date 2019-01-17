@@ -69,7 +69,7 @@ class CountdownTimer extends Component {
                     this.state.timeRemaining.days &&
                     <div className={styles.section}>
                         <div className={styles.time}>{this.state.timeRemaining.days}</div>
-                        <div className={styles.label}>{this.state.timeRemaining.days > 1 ? 'Dias' : 'Dia'}</div>
+                        <div className={styles.label}>{this.state.timeRemaining.days > 1 ? 'Días' : 'Día'}</div>
                     </div>
                 }
                 {
