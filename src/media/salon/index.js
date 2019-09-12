@@ -1,5 +1,5 @@
-import cautiva from './lacautiva.png';
+import bosque_de_piedras from './bosque_de_piedras.png';
 
 export default {
-  cautiva,
+  bosque_de_piedras,
 };
