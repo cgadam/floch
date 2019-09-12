@@ -8,8 +8,8 @@ import moment from 'moment';
 export default {
   icons: icons.default,
   novios: {
-    novio: 'Christian Adam',
-    novia: 'Florencia Mihaich',
+    novio: 'Lucas Matías Fernández',
+    novia: 'Melisa Antonela Agnolon',
   },
   header: {
     images: headerImages.default.carousel,
@@ -17,48 +17,51 @@ export default {
     text: '¡Nos casamos!',
   },
   church: {
-    name: 'La Merced',
-    location: 'https://www.google.com/maps/dir//Parroquia+Nuestra+Señora+de+la+Merced,+Alta+Gracia,+Provincia+de+Córdoba/',
-    time: moment('23/02/2019 18:20:00', 'DD/MM/YYYY hh:mm:ss'),
-    photo: church.default.church,
     rings: church.default.rings,
     poem: {
-      text: `Incapaz de percibir tu forma,
-te encuentro a mi alrededor.
-Tu presencia llena mis ojos con tu amor,
-Doblega mi corazón,
-porque estás en todas partes.`,
-      author: 'Anónimo',
+      text: `
+      Dicen que cuando conocés
+      al amor de tu vida, el tiempo se para…
+      Y es verdad!
+      Lo que no dicen es que, cuando vuelve
+      a ponerse en marcha,
+      se mueve aún más rápido,
+      para recuperar el tiempo perdido.`,
     }
   },
   salon: {
-    name: 'Estancia La Cautiva',
-    location: 'https://www.google.com/maps/dir//Estancia+La+Cautiva,+Camino+a+La+Paisanita,+Estancia+La+Cautiva,+3.6+km+camino+a+La+Paisanita,+Córdoba/',
-    time: moment('23/02/2019 19:45:00', 'DD/MM/YYYY hh:mm:ss'),
-    photo: salon.default.cautiva,
+    name: 'Bosque de Piedras',
+    location: 'https://www.google.com/maps/place/Bosque+De+Piedras/@-31.3321875,-64.2984267,15z/data=!4m12!1m6!3m5!1s0x94329dc9b241c53f:0x9326d58dd5ddb5e3!2sBosque+De+Piedras!8m2!3d-31.332214!4d-64.298428!3m4!1s0x94329dc9b241c53f:0x9326d58dd5ddb5e3!8m2!3d-31.332214!4d-64.298428',
+    time: moment('09/02/2020 `12:00:00', 'DD/MM/YYYY hh:mm:ss'),
+    time_to: moment('09/02/2020 `19:00:00', 'DD/MM/YYYY hh:mm:ss'),
+    photo: salon.default.bosque_de_piedras,
+    note1: 'Ceremonia religiosa y civil en el salón',
+    note2: 'Se ruega puntualidad',
+    note3: 'No se permite tirar arroz ni nada similar'
   },
   gifts: {
-    message: '¡Nos podés ayudar de varias formas!',
+    message: 'Como nuestra casa ya tiene de todo, te pedimos nos ayudes con nuestro deseo de ahorrar',
     account: {
       tipo: 'Caja de Ahorro en Pesos*',
-      banco: 'BBVA Francés',
-      alias: 'CHRISTIAN.FLOR.BODA',
-      cbu: '0170290540000033757597',
+      banco: 'Banco Galicia',
+      alias: 'Melisa.Agnolon.Gali',
+      cbu: '0070148430004023411714',
       note: '(*) Si hacés una tranferencia indicá alguna referencia así sabemos que fuiste vos!'
     },
-    lists: [
-      {
-        name: 'Falabella',
-        link: 'https://www.falabellanovios.com.ar/novios-ar/public/resultadoBusquedaNovios.do?radTipoBusqueda=1&txtBusqueda=mihaich',
-      }
-    ]
+    account2: {
+      tipo: 'Caja de Ahorro en Pesos*',
+      banco: 'Banco Santander',
+      alias: 'lucas.fernandez',
+      cbu: '0720469688000035482840',
+      note: '(*) Si hacés una tranferencia indicá alguna referencia así sabemos que fuiste vos!'
+    }
   },
   confirmation: {
     message: 'Por favor confirmar asistencia antes del:',
-    date: moment('01/02/2019 00:00:00', 'DD/MM/YYYY hh:mm:ss'),
+    date: moment('10/01/2020 00:00:00', 'DD/MM/YYYY hh:mm:ss'),
     button: {
       text: 'Confirmar Aquí',
-      link: 'https://goo.gl/forms/zdDlAxDgr7Rekepi1',
+      link: 'https://docs.google.com/forms/d/e/1FAIpQLSfWajJfcHbv_CsgyJgpLi3cr03Bzlulc18nFppY6IV1nZNQHA/viewform?usp=sf_link',
     }
   }
 }

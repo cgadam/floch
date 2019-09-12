@@ -47,7 +47,7 @@ const Header = (props) => {
         </div>
       </div>
       <div className={styles.header}>
-        <img className={styles.marquesina} src={marquesina} alt='23 de Febrero' />
+        <img className={styles.marquesina} src={marquesina} alt='9 de Enero' />
       </div>
     </Fragment>
   );

@@ -7,16 +7,8 @@ const Gifts = (props) => {
     message,
     icons,
     account,
-    lists,
+    account2
   } = props;
-
-  const listsButtons = lists.map((list, index) => {
-    return (
-      <a key={`lista-${index}`} target='_blank' rel='noopener noreferrer' className={styles.listButton} href={list.link} >
-        {list.name}
-      </a>
-    );
-  });
 
   return (
     <div className={styles.gifts}>
@@ -44,21 +36,32 @@ const Gifts = (props) => {
                 <div className={styles.accountInfo}>
                   <span>CBU:</span><span className={styles.accountData}>{account.cbu}</span>
                 </div>
-                <div className={styles.note}>
-                 { account.note }
-                </div>
               </div>
             </div>
           </div>
           <div className={styles.side}>
-            <img className={styles.icon} src={icons.shop} alt='Lista de casamiento' />
-            <div className={styles.title}>Lista</div>
-            <div className={styles.listasContainer}>
-              { listsButtons }
+            <img className={styles.icon} src={icons.bankTransfer} alt='Transferencia' />
+            <div>
+              <div className={styles.title}>Transferencia bancaria</div>
+              <div className={styles.accountInfoContainer}>
+                <div className={styles.accountInfo}>
+                  <span>Tipo:</span><span className={styles.accountData}>{account2.tipo}</span>
+                </div>
+                <div className={styles.accountInfo}>
+                  <span>Banco:</span><span className={styles.accountData}>{account2.banco}</span>
+                </div>
+                <div className={styles.accountInfo}>
+                  <span>Alias:</span><span className={styles.accountData}>{account2.alias}</span>
+                </div>
+                <div className={styles.accountInfo}>
+                  <span>CBU:</span><span className={styles.accountData}>{account2.cbu}</span>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
+      <div className={styles.note}>{account.note}</div>
     </div>
   );
 };
@@ -66,7 +69,7 @@ const Gifts = (props) => {
 Gifts.propTypes = {
   message: PropTypes.string.isRequired,
   account: PropTypes.object.isRequired,
-  lists: PropTypes.arrayOf(PropTypes.object).isRequired,
+  account2: PropTypes.object.isRequired
 }
 
 export default Gifts;
