@@ -3,13 +3,11 @@ import Slider from 'react-slick';
 import PropTypes from 'prop-types';
 
 import styles from './Header.css';
-import CountdownTimer from '../CountdownTimer';
 
 const Header = (props) => {
   const {
     images,
     text,
-    date,
     marquesina,
     novio,
     novia
@@ -33,7 +31,6 @@ const Header = (props) => {
       <div className={styles.hero}>
         <div className={styles.center}>
           <div className={styles.message}>{text}</div>
-          <CountdownTimer endDate={date}/>
         </div>
         <div className={styles.slider}>
           <Slider {...settings}>
@@ -56,7 +53,6 @@ const Header = (props) => {
 Header.propTypes = {
   images: PropTypes.arrayOf(PropTypes.string).isRequired,
   text: PropTypes.string,
-  date: PropTypes.object.isRequired,
   novio: PropTypes.string.isRequired,
   novia: PropTypes.string.isRequired,
   marquesina: PropTypes.string.isRequired,

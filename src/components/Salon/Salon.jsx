@@ -35,9 +35,11 @@ const Salon = (props)=> {
           </div>
         </div>
       </div>
-      <div className={styles.note}>{note1}</div>
-      <div className={styles.note}>{note2}</div>
-      <div className={styles.note}>{note3}</div>
+      <div className={styles['center-module']}>
+        <div className={styles.note}>{note1}</div>
+        <div className={styles.note}>{note2}</div>
+        <div className={styles.note}>{note3}</div>
+      </div>
     </div>
   );
 };

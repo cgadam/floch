@@ -1,6 +1,7 @@
 :local(.module) {
   background-color: #4d6dcb;
   text-align: center;
+  padding: 25px 5px;
 }
 
 :local(.side-by-side) {
@@ -9,7 +10,6 @@
   flex-wrap: wrap;
   overflow: auto;
   justify-content: center;
-  padding: 25px 0;
 }
 
 :local(.side) {
