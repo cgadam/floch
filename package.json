@@ -33,6 +33,6 @@
   ],
   "homepage": "http://cgadam.github.io/floch",
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^5.0.0"
   }
 }
